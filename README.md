@@ -33,9 +33,8 @@
    - Chrome / Edge: [Tampermonkey 商店链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
    - Firefox: [Tampermonkey 附加组件](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
-2. **安装本脚本**  
-   - 点击 [raw 脚本链接](https://raw.githubusercontent.com/your-repo/bilibili-live-shield/main/bilibili-live-shield.user.js)（请替换为实际链接），Tampermonkey 会自动提示安装。  
-   - 或复制完整脚本内容，在 Tampermonkey 中新建脚本并粘贴保存。
+2. **安装本脚本**   
+   - 复制完整脚本内容，在 Tampermonkey 中新建脚本并粘贴保存。
 
 3. **打开 B 站任意直播间**，脚本自动运行，右下角会出现粉色圆形浮动按钮（`BLS`）。
 

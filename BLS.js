@@ -3,7 +3,7 @@
 // @namespace    https://github.com/mavis/bilibili-live-shield
 // @version      2.0.8
 // @description  按 UID / 粉丝牌 / 荣耀等级 屏蔽B站直播弹幕，聊天框一键拉黑；支持过滤无牌/无荣耀用户
-// @author       SXZ
+// @author       洋葱炸鱼饼
 // @match        https://live.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        GM_addStyle
